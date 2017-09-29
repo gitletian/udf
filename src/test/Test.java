@@ -14,6 +14,7 @@ import org.apache.hadoop.hive.ql.exec.UDAFEvaluator;
 public final class Test extends UDAF {  
   
     /** 
+     * is depred 2
      * The internal state of an aggregation for average. 
      *  
      * Note that this is only needed if the internal state cannot be represented 
